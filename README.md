@@ -1,6 +1,8 @@
-# Personal CV & Blog
+# prism-portfolio
 
-A modern personal portfolio website with blog functionality, built with TypeScript, React, Vite, and MongoDB.
+A modern personal portfolio website with an editable CV and blog functionality, built with TypeScript, React, Vite, and MongoDB.
+
+Live Portfolio: [https://me.boyig.com](https://me.boyig.com)
 
 ## Tech Stack
 
